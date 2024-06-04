@@ -1,0 +1,12 @@
+﻿black
+flake8
+pytest
+pytest-timeout
+requests
+Beautifulsoup4
+pandas 
+os
+seaborn 
+matplotlib.pyplot 
+matplotlib.ticker  
+StrMethodFormatter
